@@ -50,8 +50,8 @@ exports.run = async (client, message) => {
       true
     )
   .addField(
-      `__nsfw +18 Komutlar__`,
-      `🍑 \`${prefix}nsfw\``,
+      `__test komutları__`,
+      `:) \`${prefix}test\``,
       true
     )
     .addField(
