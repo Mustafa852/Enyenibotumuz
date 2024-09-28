@@ -10,7 +10,6 @@
     "akaneko": "^5.2.3",
     "aki-api": "^6.0.8",
     "axios": "^0.21.1",
-    "better-uptime": "^1.1.4",
     "canvacord": "^5.0.8",
     "canvas": "^2.10.2",
     "captcha-plus": "^2.5.2",
